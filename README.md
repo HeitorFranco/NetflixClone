@@ -17,7 +17,7 @@ Esta aplicação foi feita usando:
 ```
 $ git clone https://github.com/HeitorFranco/netflix_clone.git
 
-$ cd netflix_clone
+$ cd NetflixClone
 ```
 
 ## Instalando Dependências
