@@ -1,5 +1,8 @@
 # Clone Da Netflix
 
+<img src="https://github.com/HeitorFranco/NetflixClone/blob/main/github/ScreenShot.PNG"/>
+<img src="https://github.com/HeitorFranco/NetflixClone/blob/main/github/ScreenShot2.PNG"/>
+
 Esta Aplcação é um clone da Netflix totalmente responsiva, com a intenção de sempre estar aprendendo cada vez mais!
 
 Esta aplicação foi feita usando:
