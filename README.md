@@ -1,6 +1,6 @@
 # Clone Da Netflix
 
-Esta Aplcação é um clone da Netflix totalmente responsiva, com a intenção de sempre estar aprendendo cada vez mais!
+Esta Aplicação é um clone da Netflix totalmente responsiva, com a intenção de sempre estar aprendendo cada vez mais!
 
 Esta aplicação foi feita usando:
 
