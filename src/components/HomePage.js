@@ -90,7 +90,7 @@ function App() {
         <>
           <div className="list-search">
             {movies.map((movie, key) => {
-              if (movie.original_name || movie.original_title) {
+              if (movie.poster_path) {
                 return (
                   <>
                     <div key={key} className="movieSearch--item">
