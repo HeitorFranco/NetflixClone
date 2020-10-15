@@ -77,6 +77,7 @@ function MovieRow({ title, items }) {
               },
               1001: {
                 slidesPerGroup: 4,
+                touchRatio: 0,
               },
             }}
           >
