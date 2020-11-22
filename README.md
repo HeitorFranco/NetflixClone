@@ -18,7 +18,7 @@ Esta aplicação foi feita usando:
 ## Clonando Projeto
 
 ```
-$ git clone https://github.com/HeitorFranco/netflix_clone.git
+$ git clone https://github.com/HeitorFranco/NetflixClone.git
 
 $ cd NetflixClone
 ```
